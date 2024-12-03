@@ -5,7 +5,7 @@
 using namespace std;
 
 	int main () {
-		cout << "Hello ASDT world with stashing" << endl;
+		cout << "Hello ASDT world" << endl;
 	return 0;
 	}
 
